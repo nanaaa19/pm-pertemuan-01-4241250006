@@ -17,7 +17,7 @@ Tools • Dart 3.13.5 • DevTools 2.60.0
 ![flutter doctor](screenshots/doctor.png)
 
 ### Aplikasi
-![aplikasi](helloworld_ananda.jpeg)
+![aplikasi](helloworld_ananda.png)
 
 ## Kendala dan Solusi
 1. **Kendala:** perintah `flutter` tidak dikenali di PowerShell.

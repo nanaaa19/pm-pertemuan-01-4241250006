@@ -1,9 +1,9 @@
 # pm-pertemuan-01-4243250040
 
-Nama: Febrianta Immanuel Purba | NIM: 4243250040 | Kelas: PSIK 24D
+Nama: Ananda Syafika | NIM: 4241250006 | Kelas: PSIK 24D
 
 ## Deskripsi
-Aplikasi Flutter sederhana yang menampilkan Hello World beserta nama, NIM, kelas, 
+Aplikasi Flutter sederhana yang menampilkan Hello World beserta nama, NIM, kelas,
 dan widget tambahan berupa Card, tombol penghitung (ElevatedButton), dan ikon.
 
 ## Versi Flutter
@@ -26,7 +26,7 @@ Tools • Dart 3.13.5 • DevTools 2.60.0
    **Solusi:** menghapus folder NDK yang rusak, lalu memasang ulang lewat Android Studio (SDK Manager, SDK Tools, NDK Side by side) sampai selesai.
 
 ## Pernyataan Penggunaan AI
-Saya menggunakan Claude sebagai asisten untuk panduan instalasi Flutter, 
-memperbaiki error build (PATH, Android SDK, NDK), dan contoh kode awal. 
-Semua perintah saya jalankan sendiri, kode saya sesuaikan dengan identitas saya, 
+Saya menggunakan Claude sebagai asisten untuk panduan instalasi Flutter,
+memperbaiki error build (PATH, Android SDK, NDK), dan contoh kode awal.
+Semua perintah saya jalankan sendiri, kode saya sesuaikan dengan identitas saya,
 dan saya memahami fungsi widget yang dipakai.
